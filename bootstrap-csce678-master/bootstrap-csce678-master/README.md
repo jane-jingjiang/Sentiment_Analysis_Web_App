@@ -12,7 +12,7 @@
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ### Advanced Usage
 
@@ -27,15 +27,6 @@ After installation, run `npm install` and then run `npm start` which will open u
 - `gulp vendor` copies dependencies from node_modules to the vendor directory
 
 You must have npm installed globally in order to use this build environment.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
-
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
 
 
 ## Copyright and License
